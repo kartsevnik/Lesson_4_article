@@ -1,0 +1,55 @@
+@import "null.css";
+@import "fonts.css";
+
+body {
+    font-family: "Caveat";
+    font-size: 30px;
+}
+
+h1 {
+    font-family: "Pacifico";
+    font-size: 36px;
+    text-align: center;
+    color: rgb(190, 0, 0);
+}
+
+h2 {
+    font-family: "Marck_Script";
+    font-size: 36px;
+    text-align: center;
+    color: rgb(1, 86, 184);
+}
+
+a {
+    color: cadetblue;
+}
+
+.text_bold {
+    font-weight: 700;
+}
+
+.main_content {
+    padding: 0 20px 0 20px;
+}
+
+li > a {
+    color: cornflowerblue;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.back-to-navigation {
+    font-size: 26px;
+    text-align: left;
+}
+
+.footer {
+    font-size: 16px;
+    text-align: right;
+    font-weight: 700;
+}
